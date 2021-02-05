@@ -1,6 +1,6 @@
 # 딥러닝 하다가 마주한 명령어 모음
-[Linux]
+[Linux](https://github.com/ji-in/note/tree/main/Linux)
 
-[Jupyter notebook]
+[Jupyter notebook](https://github.com/ji-in/note/tree/main/jupyter-notebook)
 
-[Anaconda]
+[Anaconda](https://github.com/ji-in/note/tree/main/anaconda)
