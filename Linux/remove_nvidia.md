@@ -1,6 +1,6 @@
 ### Nvidia driver 삭제하기
 
-*sudo apt-get remove --purge '^nvidia-.\*'*`
+`*sudo apt-get remove --purge '^nvidia-.\*'*`
 
 ### CUDA 삭제하기
 
