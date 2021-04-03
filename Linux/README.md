@@ -9,3 +9,5 @@
 [서버의 자원을 확인하는 명령어들](https://github.com/ji-in/note/blob/main/Linux/resource.md)
 
 [삭제와 관련된 명령어들](https://github.com/ji-in/note/blob/main/Linux/remove.md)
+
+[Ndivia gpu 의 삭제와 관련된 명령어들]
