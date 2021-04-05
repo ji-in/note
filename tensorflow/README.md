@@ -1,0 +1,1 @@
+[Tensorflow 버전이 2.x 인데 1.x 을 쓰고 싶을 때](https://github.com/ji-in/note/blob/main/tensorflow/version.md)

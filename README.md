@@ -5,4 +5,5 @@
 
 [Anaconda](https://github.com/ji-in/note/tree/main/anaconda)
 
-[Tensorflow]()
+[Tensorflow](https://github.com/ji-in/note/tree/main/tensorflow)
+
