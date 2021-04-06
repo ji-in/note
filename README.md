@@ -7,3 +7,4 @@
 
 [Tensorflow](https://github.com/ji-in/note/tree/main/tensorflow)
 
+[에러 모음]()
