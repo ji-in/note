@@ -11,3 +11,6 @@
 [삭제와 관련된 명령어들](https://github.com/ji-in/note/blob/main/Linux/remove.md)
 
 [Nvidia gpu 의 삭제와 관련된 명령어들](https://github.com/ji-in/note/blob/main/Linux/remove_nvidia.md)
+
+[user 추가하기](https://github.com/ji-in/note/blob/main/Linux/adduser.md)
+
