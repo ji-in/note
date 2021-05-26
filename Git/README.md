@@ -9,3 +9,8 @@
 `$ git push --set-upstream origin <새로운 branch>`
 
 clone한 원격저장소로 가서 확인해보면 새로운 branch가 생성된 것을 볼 수 있다.
+
+## 충돌 해결하기
+
+[충돌 해결](https://velog.io/@devmin/git-conflict-solution-basic)
+
