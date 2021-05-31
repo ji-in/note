@@ -2,7 +2,7 @@
 
 ### 가상환경 생성
 
-`conda activate -n py36 python=3.6`
+`conda create -n py36 python=3.6`
 
 ### 가상환경 활성화
 
