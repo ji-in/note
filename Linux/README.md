@@ -14,3 +14,5 @@
 
 [user 추가하기](https://github.com/ji-in/note/blob/main/Linux/adduser.md)
 
+[CUDA 환경변수 설정](https://github.com/ji-in/note/blob/main/Linux/cuda.md)
+
