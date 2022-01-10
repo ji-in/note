@@ -7,7 +7,7 @@ export CUDA_HOME='/usr/local/cuda-11.1'
 ```
 
 ## NVIDIA driver 설치 확인
-`cat /proc/driver/nvidia/version`
+`cat /proc/driver/nvidia/version`  
 `nvidia-smi`
 
 ## cuda 확인
